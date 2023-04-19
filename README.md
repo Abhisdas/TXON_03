@@ -1,5 +1,5 @@
 ## TO DO LIST PROJECT.
-Here, i have created a website which works as a to do list and notes the work of the user to be done later.
+Here, I have created a website which works as a to do list and notes the work of the user to be done later.
 ## My Website Link : https://abhishdas.github.io/TXON_03/
 
 ## Home page
